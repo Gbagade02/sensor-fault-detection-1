@@ -1,2 +1,2 @@
-TRAINING_BUCKET_NAME = "scania-sensor-pipeline"
+TRAINING_BUCKET_NAME = "sensor-project-pipeline01"
 PREDICTION_BUCKET_NAME = "sensor-datasource"
